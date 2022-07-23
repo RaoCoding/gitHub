@@ -1,9 +1,6 @@
  demo  fix:three
 bc
 
-<<<<<<< HEAD
-=======
 abcd
->>>>>>> config
 
 
