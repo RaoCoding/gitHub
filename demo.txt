@@ -1,7 +1,9 @@
  demo  fix:three
 bc
 
-ccc
-ddd
+<<<<<<< HEAD
+=======
+abcd
+>>>>>>> config
 
 
