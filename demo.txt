@@ -1,6 +1,6 @@
- demo asd fix:three
+ demo  fix:three
 four
 
-abcdef
+ab
 
 mkdir
